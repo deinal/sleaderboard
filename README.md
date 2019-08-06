@@ -1,2 +1,5 @@
 # sleaderboard
-SLURM leaderboard
+Leaderboard for the SLURM workload manager :trophy:
+```
+./ranking.sh
+```
